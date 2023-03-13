@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Cohort 2 projects/bookmark-landing-page-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "bookmark-landing-page-master"
+	}
+}
